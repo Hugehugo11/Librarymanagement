@@ -18,7 +18,7 @@ These instructions will help you set up the project on your local machine.
 4. Open a browser and go to the URL “http://localhost/phpmyadmin/”.
 5. Create a database named “library1”.
 6. Click on  the  import  and select “library1.sql” file which is inside of the sql file and after import click “go“.
-7. Open a browser and go to URL “http://localhost/librarym/”.
+7. Open a browser and go to URL “http://localhost/Librarymanagement-main/”.
 
 ### Languages Used
 
