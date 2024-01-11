@@ -130,7 +130,6 @@
         echo "<th>Title</th>";
         echo "<th>Author</th>";
         echo "<th>Description</th>";
-        echo "<th>File Path</th>";
         echo "<th>Action</th>";
         echo "</tr>";
 
@@ -140,7 +139,6 @@
             echo "<td>" . $row["title"] . "</td>";
             echo "<td>" . $row["author"] . "</td>";
             echo "<td>" . $row["description"] . "</td>";
-            echo "<td>" . $row["file_path"] . "</td>";
             echo "<td class='action-buttons'>";
             echo "<div class='download-link'><a href='" . $row["file_path"] . "' download>Download</a></div>";
             echo "<button onclick='deleteBook(" . $row["id"] . ")'>Delete</button>";
