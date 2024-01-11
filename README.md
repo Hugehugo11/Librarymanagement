@@ -12,12 +12,12 @@ This is a web application & API for library management system with two users: Ad
 
 These instructions will help you set up the project on your local machine.
 
-1. Download and Unzip file on your local system copy library.
-2. Put librarym folder inside root directory.
+1. Download and Unzip file on your local system .
+2. Put the downloaded files inside root directory(i.e ./xampp/htdocs).
 3. Open xampp and start Apache and MySQL.
 4. Open a browser and go to the URL “http://localhost/phpmyadmin/”.
 5. Create a database named “library1”.
-6. Click on browse file and select “library1.sql” file which is inside the “database” folder, and after import click “go“.
+6. Click on  the  import  and select “library1.sql” file which is inside of the sql file and after import click “go“.
 7. Open a browser and go to URL “http://localhost/librarym/”.
 
 ### Languages Used
